@@ -1,0 +1,10 @@
+{
+    "license": "CPAL-1.0",
+    "name": "@mindpowered/iptools",
+    "version": "0.0.1",
+    "description": "IPTools",
+    "main": "index.js",
+    "dependencies": {
+        "@mindpowered/maglev": "*"
+    }
+}
