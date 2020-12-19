@@ -1,7 +1,7 @@
 {
     "license": "CPAL-1.0",
     "name": "@mindpowered/iptools",
-    "version": "0.0.9",
+    "version": "0.0.10",
     "description": "IPTools",
     "main": "index.js",
     "dependencies": {
