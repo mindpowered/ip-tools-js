@@ -1,8 +1,8 @@
 {
     "license": "CPAL-1.0",
     "name": "@mindpowered/iptools",
-    "version": "0.0.11",
-    "description": "IPTools",
+    "version": "0.0.12",
+    "description": "Tools for working with IP Addresses",
     "main": "index.js",
     "dependencies": {
         "@mindpowered/maglev": "*"
