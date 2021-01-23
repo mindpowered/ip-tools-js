@@ -9,6 +9,7 @@ Contents
 * [Licensing](#licensing)
 * [Requirements](#requirements)
 * [Installation](#installation)
+* [Usage](#usage)
 * [Support](#support)
 
 # Source Code and Documentation
@@ -43,16 +44,27 @@ You can also add the package directly to your packages.json file.
 ...
 
 
+# Usage
+```javascript
+
+let mpcipt = require('@mindpowered/iptools');
+const {IPTools} = mpcipt;
+
+let ipt = new IPTools();
+let decimal = ipt.IPToDecimal("192.168.1.1");
+
+```
+
+
 # Support
 We are here to support using this package. If it doesn't do what you're looking for, isn't working, or you just need help, please [Contact us][contact].
 
 There is also a public [Issue Tracker][bugs] available for this package.
-  
-  
-![Documentation - JS README - ip-tools](https://www.google-analytics.com/collect?v=1&tid=UA-178768904-1&cid=555&aip=1&t=event&ec=Documentation&ea=JS+README&el=ip-tools)
+
 
 
 [bugs]: https://github.com/mindpowered/ip-tools-js/issues
 [contact]: https://mindpowered.dev/support.html?ref=ip-tools-js/
+[docs]: https://mindpowered.github.io/ip-tools-js/
 [licensing]: https://mindpowered.dev/?ref=ip-tools-js
 [purchase]: https://mindpowered.dev/purchase/ip-tools-js
