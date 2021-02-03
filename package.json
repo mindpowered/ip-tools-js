@@ -1,7 +1,7 @@
 {
-    "license": "CPAL-1.0",
+    "license": "MIT",
     "name": "@mindpowered/iptools",
-    "version": "0.0.16",
+    "version": "0.0.17",
     "description": "Tools for working with IP4/IP6 IP Addresses including IPv4, IPv6, CIDR, and Subnet Masks",
     "main": "index.js",
     "dependencies": {
